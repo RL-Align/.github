@@ -13,6 +13,6 @@ We are an open-source collective dedicated to breaking the memory and compute wa
 Whether you are a kernel hacker, an AI Infra engineer, or an LLM researcher, you are welcome here!
 
 * **Discord:** [Join our server](https://discord.gg/RGUQrr74z) for real-time technical discussions.
-* **Contact:** Reach out to us at vensenmu@gmail.com for collaborations.
+* **Contact:** Reach out to us at team@rl-align.org for collaborations.
 
 ---
